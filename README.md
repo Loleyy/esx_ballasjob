@@ -2,17 +2,24 @@
 
 Création de la ressource Ballosjob à partir de la nouvelle version de esx_policejob
 
-# requirements 
+### Requirements
+* Auto mode
+  * [esx_billing](https://github.com/ESX-Org/esx_billing)
+  * [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
+* Player management (boss actions and armory with buyable weapons)
+  * [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
+  * [esx_datastore](https://github.com/ESX-Org/esx_datastore)
+  * [esx_society](https://github.com/ESX-Org/esx_society)
 
-- esx_billing
-- esx_vehicleshop
-- esx_addoninventory
-- esx_datastore
-- esx_society
+* ESX Identity Support
+  * [esx_identity](https://github.com/ESX-Org/esx_identity)
 
-https://github.com/ESX-Org/esx_billing
+* ESX License Support
+  * [esx_license](https://github.com/ESX-Org/esx_license)
 
+* ESX Service Support
+  * [esx_service](https://github.com/ESX-Org/esx_service)
 
 
 
