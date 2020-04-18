@@ -1,6 +1,16 @@
 # esx_ballasjob
 
-Création de la ressource Ballosjob à partir de la nouvelle version de esx_policejob
+Création de la ressource Ballosjob à partir de la nouvelle version de esx_policejob.
+
+Vous devez modifier les points de blip et les mettre ou vous voulez. 
+
+Pour ce faire rendez vous dans le fichier config.lua
+
+Exemple d'intérieur de gang ballas
+
+https://github.com/Evgenius33/Ballas-Gang-Interior
+
+
 
 ### Requirements
 * Auto mode
@@ -12,14 +22,20 @@ Création de la ressource Ballosjob à partir de la nouvelle version de esx_poli
   * [esx_datastore](https://github.com/ESX-Org/esx_datastore)
   * [esx_society](https://github.com/ESX-Org/esx_society)
 
-* ESX Identity Support
-  * [esx_identity](https://github.com/ESX-Org/esx_identity)
+### Using Git
+cd resources
+git clone https://github.com/Loleyy/esx_ballasjob.git [gang]/esx_ballasjob
 
-* ESX License Support
-  * [esx_license](https://github.com/ESX-Org/esx_license)
 
-* ESX Service Support
-  * [esx_service](https://github.com/ESX-Org/esx_service)
+
+## Installation
+- Import esx_ballasjob.sql in your database
+- Add this to your server.cfg:
+
+start esx_ballasjob
+
+
+
 
 
 
