@@ -2,7 +2,7 @@
 
 Création de la ressource Ballosjob à partir de la nouvelle version de esx_policejob.
 
-Vous devez modifier les points de blip et les mettre ou vous voulez. 
+Vous devez modifier les points de blip / marker et les mettre ou vous voulez. 
 
 Pour ce faire rendez vous dans le fichier config.lua
 
